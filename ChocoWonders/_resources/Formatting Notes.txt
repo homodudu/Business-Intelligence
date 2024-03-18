@@ -1,0 +1,5 @@
+Red Background:
+Hex = #A71D3D
+
+Blue Highlight: 
+Hex = #20E2D7
